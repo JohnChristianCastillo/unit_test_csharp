@@ -1,0 +1,16 @@
+C:\Users\john.castillo\source\repos\UnitTests\UnitTests\bin\Debug\UnitTests.exe.config
+C:\Users\john.castillo\source\repos\UnitTests\UnitTests\bin\Debug\UnitTests.exe
+C:\Users\john.castillo\source\repos\UnitTests\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\john.castillo\source\repos\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.AssemblyReference.cache
+C:\Users\john.castillo\source\repos\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.SuggestedBindingRedirects.cache
+C:\Users\john.castillo\source\repos\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\john.castillo\source\repos\UnitTests\UnitTests\obj\Debug\UnitTests.exe
+C:\Users\john.castillo\source\repos\UnitTests\UnitTests\obj\Debug\UnitTests.pdb
+C:\LocalApp\NoScan\unit_test_csharp\UnitTests\UnitTests\bin\Debug\UnitTests.exe.config
+C:\LocalApp\NoScan\unit_test_csharp\UnitTests\UnitTests\bin\Debug\UnitTests.exe
+C:\LocalApp\NoScan\unit_test_csharp\UnitTests\UnitTests\bin\Debug\UnitTests.pdb
+C:\LocalApp\NoScan\unit_test_csharp\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.AssemblyReference.cache
+C:\LocalApp\NoScan\unit_test_csharp\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.SuggestedBindingRedirects.cache
+C:\LocalApp\NoScan\unit_test_csharp\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\LocalApp\NoScan\unit_test_csharp\UnitTests\UnitTests\obj\Debug\UnitTests.exe
+C:\LocalApp\NoScan\unit_test_csharp\UnitTests\UnitTests\obj\Debug\UnitTests.pdb
